@@ -1,0 +1,8 @@
+torch==2.4.1
+flask==3.0.3
+joblib==1.4.2
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==2.0.1
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9
